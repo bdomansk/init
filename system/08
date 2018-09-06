@@ -1,0 +1,2 @@
+~/.ssh/id_rsa
+#create a RSA key through "ssh-keygen"

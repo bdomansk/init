@@ -1,0 +1,4 @@
+Файл настроек /etc/resolv.conf содержит информацию, которая позволяет 
+компьютеру преобразовывать буквенно-цифровые доменные имена в цифровые IP адреса.
+ls -l /etc/resolv.conf
+lrwxr-xr-x  1 root  wheel  22 Mar  4 17:46 /etc/resolv.conf -> ../var/run/resolv.conf

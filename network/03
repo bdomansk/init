@@ -1,0 +1,2 @@
+networksetup -getmacaddress 'Wi-Fi'
+#networksetup -getinfo wi-fi

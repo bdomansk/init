@@ -1,0 +1,21 @@
+get ip from nslookup slash16.org
+whois "ip"     or use https://ipinfo.io/ 
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2017-01-28
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://rdap.arin.net/registry/entity/AT-88-Z
+

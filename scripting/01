@@ -1,0 +1,4 @@
+#!/bin/bash
+cut -f 1,3,6 -d : /etc/passwd
+#about /etc/passwd - https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
+#about cut - http://aidalinux.ru/w/Cut
